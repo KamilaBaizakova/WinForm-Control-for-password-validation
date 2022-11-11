@@ -1,7 +1,7 @@
 # WinForm-Control-for-password-validation
 
 # Project Description 
-This app was made for "Advanced programming 2" class in my univesrity course in C#. 
+This app was made for "Advanced programming 2" class in my university course in C#. 
 Control in Windows Form for password validation. It checks certian qualifications and gives you information if your password is safe enough. 
 The Control does not display information about errors, it signals visually only password quality itself. 
 The test application is responsible for handling the application in
